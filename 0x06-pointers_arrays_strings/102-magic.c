@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void)
-/* this is the main entry-point*/
 {
 	int n;
 	int a[5];
